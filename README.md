@@ -20,9 +20,12 @@ All problems are sourced from **LeetCode** and categorized based on difficulty.
 ---
 
 ## 📂 Folder Structure
-├── easy/
-├── medium/
-└── hard/
+|--EASY--|
+
+|--MEDIUM--|
+
+|--HARD--|
+
 ---
 
 ## 💻 Language Used
