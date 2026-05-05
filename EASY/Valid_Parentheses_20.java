@@ -24,6 +24,8 @@ class Solution {
             }
         }
        }
-       return list.isEmpty();
+       if(list.isEmpty()) return true;
+
+        return false;
     }
 }
