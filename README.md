@@ -1,6 +1,6 @@
 # LeetCode DSA Daily Solutions
 
-Welcome to my **LeetCode Daily Practice Repository**!  
+Welcome to my **LeetCode Daily Practice Repository**  
 This repo is dedicated to consistently solving **Data Structures and Algorithms (DSA)** problems and documenting clean, understandable solutions.
 
 ---
