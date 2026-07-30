@@ -9,7 +9,6 @@ class Solution {
             dummy = dummy.next;
             length++;
         }
-
         int position = k % length;
         if (position == 0) return head;
 
